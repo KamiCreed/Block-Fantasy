@@ -1,0 +1,1 @@
+return irandom(1);
